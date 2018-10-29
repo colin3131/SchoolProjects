@@ -1,0 +1,38 @@
+table{
+    background: yellow;
+    border: 8px solid blue;
+    margin: 0 auto;
+}
+
+th{
+    cursor:pointer;
+}
+
+.top{
+    float: top;
+}
+
+td{
+    height: 100%;
+}
+
+#p1chips{
+    float: left;
+    text-align: center;
+}
+
+#p2chips{
+    float: left;
+    text-align: center;
+}
+
+.column{
+    float: left;
+    width: 33.33%;
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
