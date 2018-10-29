@@ -1,2 +1,2 @@
-# SchoolProjects
-Compilation of Notable Projects from my coursework at Pitt
+# Schoo Projects
+Compilation of notable projects from my coursework at Pitt
