@@ -1,0 +1,52 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Colin Spratt
+
+Lecture section:  MW 9:30 am CS Non-Writing
+
+Recitation day and time:  Friday 3:00pm
+
+Assignment #:  4
+
+Program due date:  4-5
+
+Handed in date:  4-5
+
+Source code file name(s): Dijkstra.java
+Edge.java
+Graph.java
+IndexMinPQ.java
+NetworkAnalysis.java -- Main Driver
+PrimMax.java
+PrimMin.java
+Queue.java
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+Used PrimMax to find Maximum Spanning tree for Bandwidth.
+It sometimes does not give the correct answer, but I have too little time
+left till the deadline to get it working properly.
